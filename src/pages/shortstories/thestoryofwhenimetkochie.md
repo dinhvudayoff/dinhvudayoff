@@ -1,8 +1,12 @@
 [Short Stories](/shortstories)
 
-The Story of when I met Kochie, David Koch, of Sunrise
 
-Was the summer of 09. I had been hit hard by the 2008 financial crisis having had large amounts of capital tied up in Banco De Venezuela off a bad tip from an ex-compatriot. 
+
+<div class="story-container">
+  <h1 class="text-2xl font-semibold mb-4">The Story of when I met Kochie, David Koch, of Sunrise</h1>
+  <p class="story-text">
+
+It was the summer of 09. I had been hit hard by the 2008 financial crisis having had large amounts of capital tied up in Banco De Venezuela off a bad tip from an ex-compatriot. 
 
 I was living in the apple of Australia's eye at the time, the capital of sophistication and class, Sydney.  It was on this faithful day 12 years ago that I met the man who would change the course of my life. 
 
@@ -43,4 +47,23 @@ He chuckled again, the light in his eyes whispering of wisdom beyond his years. 
 With that final nugget of infinite knowledge Kochie sauntered into the dark night. 
 Before he left earshot I pleaded "When will I see you again" to which he replied. 
 
-"Tune in Every Morning on Sunrise!". The last vestiges of lilac fading with him.
+"Tune in Every Morning on Sunrise!". The last vestiges of lilac fading with him.}</p>
+</div>
+
+<style>
+  .story-container {
+    max-width: 700px;
+    margin: 2rem auto;
+    padding: 2rem;
+    border: 2px solid #ccc;
+    border-radius: 12px;
+    background-color: #f9f9f9;
+    line-height: 1.8;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.1);
+  }
+
+  .story-text {
+    text-align: justify;
+    font-size: 1.1rem;
+  }
+</style>

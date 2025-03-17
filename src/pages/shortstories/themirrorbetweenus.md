@@ -11,7 +11,9 @@ image:
 
 [Short Stories](/shortstories)
 
-Life felt still in the barracks, the monotony of the day flowing into the next with only the purgatory of sleep to give respite. He longed for the moment his head hit the bunk, the fatigue of each day allowing dream to seep into waking life. Whispers and longing nipping at his heels, visions of embrace from those he had lost, forgotten ghosts whose faces had warped into smudges of regret. 
+[<div class="story-container">
+  <h1 class="text-2xl font-semibold mb-4">The Mirror Between Us</h1>
+  <p class="story-text"> Life felt still in the barracks. The monotony of the day flowing into the next with only the purgatory of sleep to give respite. He longed for the moment his head hit the bunk, the fatigue of each day allowing dream to seep into waking life. Whispers and longing nipping at his heels, visions of embrace from those he had lost, forgotten ghosts whose faces had warped into smudges of regret. 
 
 The work is important. A constant mantra he replayed in his head when the warm bunk breathed unconscious death into his ears. The Frontier was a thankless post, desert stretching across the horizon, unbroken except for the scarred no man's land. He had never crossed the barrier. Some had, but few returned — and those who did came back broken, something vital lost beyond the almost imperceptible shimmer.
 
@@ -60,10 +62,23 @@ He felt his ribs crack from the impact as the beast slowly marched forward, back
 Spectres of past lives flashed through his mind as the creature slowly reached for him, a reaper preparing to harvest his fields. He felt resigned to his fate, a long exhale releasing from his short bloody life. 
 
 With that final breath he closed his eyes and passed through to Hell.
+ </p>
+</div>
 
+<style>
+  .story-container {
+    max-width: 700px;
+    margin: 2rem auto;
+    padding: 2rem;
+    border: 2px solid #ccc;
+    border-radius: 12px;
+    background-color: #f9f9f9;
+    line-height: 1.8;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.1);
+  }
 
-
-
-
-
-
+  .story-text {
+    text-align: justify;
+    font-size: 1.1rem;
+  }
+</style>]
