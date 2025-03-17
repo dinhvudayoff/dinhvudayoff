@@ -1,0 +1,9 @@
+---
+import { getEntryBySlug } from 'astro:content';
+const { slug } = Astro.params;
+const story = await getEntryBySlug('stories', slug);
+---
+
+<h1>{story.data.title}</h1>
+<p>by {story.data.author}</p>
+<article>{story.body}</article>
