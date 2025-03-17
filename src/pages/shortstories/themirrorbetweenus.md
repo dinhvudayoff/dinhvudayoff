@@ -40,16 +40,25 @@ They shuffled back to command, the Man quietly muttering visions of war, of bloo
 
 Hobbling across the dunes, he heard a screeching sound echo from behind, like rocks skating across a frozen lake.
 He turned to see a hulking figure pierce through the veil, ripples reverberating across the boundary. The bipedal creature stood three meters tall, almost recognizable — a twisted amalgamation of uncanny animals, fused into one with the elegance of a single vision. The head of a spider stared blankly at the two men. For a moment, he could have sworn he saw regret in those alien eyes, a flicker of hesitation that was quickly consumed as the monster bared its fangs in rage.
+
 The Man pushed himself away.
+
 “Brother, the Gates of Hell rattle in the blowing wind,” he declared, stepping toward the beast. “Do unto me what befits my station, for I have eaten the forbidden fruit and wish to feel bloody retribution.” 
+
 The monster charged with a surprising speed, bovine legs carrying the beast on a collision course with the two. Diving to the side he quickly rolled away as the Man was skewered by the large scythe-like blades that protruded from the creature's forearms. 
 
 Busy with its prey, he regained his bearings clumsily retrieving his Baker rifle. Paralysed with terror he watched as the Man was savagely impaled with a personal intent, viscera staining the hot white sand a deep red. 
+
 The scene in front of him was brutal, flecks of blood splattering his face as the beast dismantled the Man mere meters from him. The spell was broken as he found his senses. Priming the rifle with a practiced ease he pulled back the hammer and aimed at the beast of myth.
+
 With a moment's hesitation the creature turned to him. Obsidian eyes projecting fear, or was it his own reflection in those black pools that gave him pause. 
+
 Slowly he depressed the trigger, a small explosion rocking his body backwards as the lead ball pierced the creature's skin. Blood the same deep red as the Man’s flowed from the wound. The beast reeled, his all too human arms thrashed in retaliation knocking him towards the barrier.
+
 He felt his ribs crack from the impact as the beast slowly marched forward, backing him up to the veil. Terror seized him as he was caught between certain death, and ambiguous oblivion. The unnatural pull of the boundary tugged at his heart, the buzz of electricity coursing through live wires flooding his ears. 
+
 Spectres of past lives flashed through his mind as the creature slowly reached for him, a reaper preparing to harvest his fields. He felt resigned to his fate, a long exhale releasing from his short bloody life. 
+
 With that final breath he closed his eyes and passed through to Hell.
 
 
