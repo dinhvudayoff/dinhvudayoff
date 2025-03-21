@@ -43,7 +43,7 @@ The black cat stared at him, its eyes reflecting his own emotions back. He grew 
 
 The sudden change in energy caused the cat to bolt into the wardrobe. 
 
-Growing ashamed at what he had nearly done, he left the apartment to clear his mind of the storm that consumed him. 
+He grew ashamed at what he had nearly done, the weight of his emotions threatened to crumble him to dust. The apartment was sitfling, walls closing in with the pressure of a thousand suns. He needed to escape-to outrun the storm consuming him. 
 
 The streets of the city were dark. The few stars a faded reminder of his insignificance. 
 
@@ -79,7 +79,7 @@ He looked changed. Would she still recognise his face? Tormented by four years o
 
 Slowly he climbed onto the railing. The brisk autumn breeze focusing his thoughts. 
 
-With one final glance at those dim stars reflected in the dark river, he plummeted into the icy depths. 
+With one final glance at the dim stars reflected in the dark river, he let himself believe that wherever he was going, he might see her one last time. The icy depths felt almost peaceful.
 
 When she returned. He was gone.
 
