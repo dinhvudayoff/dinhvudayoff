@@ -43,7 +43,7 @@ The black cat stared at him, its eyes reflecting his own emotions back. He grew 
 
 The sudden change in energy caused the cat to bolt into the wardrobe. 
 
-He grew ashamed at what he had nearly done, the weight of his emotions threatened to crumble him to dust. The apartment was sitfling, walls closing in with the pressure of a thousand suns. He needed to escape-to outrun the storm consuming him. 
+He grew ashamed at what he had nearly done, the weight of his emotions threatening to crumble him to dust. The apartment was sitfling, walls closing in with the pressure of a thousand suns. He needed to escape-to outrun the storm consuming him. 
 
 The streets of the city were dark. The few stars a faded reminder of his insignificance. 
 
