@@ -1,3 +1,7 @@
+---
+layout: ../../layouts/Layout.astro
+---
+
 [Short Stories](/shortstories)
 
 
@@ -48,22 +52,6 @@ With that final nugget of infinite knowledge Kochie sauntered into the dark nigh
 Before he left earshot I pleaded "When will I see you again" to which he replied. 
 
 "Tune in Every Morning on Sunrise!". The last vestiges of lilac fading with him.}</p>
+
+<img src="/davidkochie.jpg" class="kochie">
 </div>
-
-<style>
-  .story-container {
-    max-width: 700px;
-    margin: 2rem auto;
-    padding: 2rem;
-    border: 2px solid #ccc;
-    border-radius: 12px;
-    background-color: #f9f9f9;
-    line-height: 1.8;
-    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.1);
-  }
-
-  .story-text {
-    text-align: justify;
-    font-size: 1.1rem;
-  }
-</style>
